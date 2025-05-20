@@ -14,9 +14,8 @@ Assignment 3 of the DA6401: Fundamentals of Deep Learning course by Udit Narayan
 
    - To install the required dependencies, run: `pip install -r requirements.txt`
 
-3. Download the dataset using: `python data.py`
+3. Start the training process with: `python train.py`
 
-   - Start the training process with: `python train.py`
 
 4. WandB Sweep Setup
 
