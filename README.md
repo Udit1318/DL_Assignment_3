@@ -24,19 +24,7 @@ Assignment 3 of the DA6401: Fundamentals of Deep Learning course by Udit Narayan
 
 ---
 
-Command-line Arguments for `data.py`
 
-- The `data.py` script supports various arguments, including:
-  - `epochs`
-  - `batchsize`
-  - `hidden_size`
-  - `encoder_layers`
-  - `decoder_layers`
-  - `embedding_size`
-  - `dropout`
-  - `cell_type`
-  - `bi_directional`
-  - `attention`
 
 Example usage: `python train.py --epochs 10 --batchsize 64 --hidden_size 256`
 
